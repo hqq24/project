@@ -3,7 +3,7 @@
 ;;;;;;;;;;;;;;;;;;;
 Latent Variable;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;
-Case ID;Attitude Toward Local Brand (STLB);Consumer Ethnocentrism (CET);Gov. Buy Local Campaign Effectiveness (PBLCE);Local Fashion Brand Love (LFBL);Perceived Price Fairness (PPF);Perceived Product Quality (PPQ);;;;;;;;;;;;;
+Case ID;Attitude Toward Local Brand (ATLB);Consumer Ethnocentrism (CET);Gov. Buy Local Campaign Effectiveness (PBLCE);Local Fashion Brand Love (LFBL);Perceived Price Fairness (PPF);Perceived Product Quality (PPQ);;;;;;;;;;;;;
 1;0,235;1,015;0,432;0,850;0,923;0,158;;;;;;;;;;;;;
 2;0,416;0,345;0,352;0,068;0,923;0,158;;;;;;;;;;;;;
 3;0,400;0,921;0,462;0,311;1,518;0,715;;;;;;;;;;;;;
